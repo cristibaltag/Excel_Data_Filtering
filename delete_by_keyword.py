@@ -5,7 +5,7 @@ from datetime import datetime
 
 # List of keywords to search for
 keywords = [
-    "ndian", "Hindi", "Lakh", "Hoe Werkt", "Urdu", "Lakhs", "Rs.", "Podcast",
+    "Indian", "Hindi", "Lakh", "Hoe Werkt", "Urdu", "Lakhs", "Rs.", "Podcast",
     "Flip", "Flipping", "gym", "gymnastics", "Dog", "Cocomelon", "React",
     "Reacts", "Reaction", "Bet", "Queen", "Security Guard", "Chinese",
     "Pakistan", "₹", "Ep", "Lecture", "Documentary", "Airline", "Airplane",
